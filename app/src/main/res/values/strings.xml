@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlightMap</string>
+
+    <string name="flightmap_access_token">1ab9ace0-af07-11eb-82c7-2f5ae8244172</string>
+
+
+</resources>
